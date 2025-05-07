@@ -27,7 +27,7 @@ A secure, multi-functional chatbot with image generation capabilities, built wit
   - PyQt5-based interface
   - Image preview panel
   - Chat history sidebar
-- **CLI Version** (Coming Soon):
+- **CLI Version**:
   - Lightweight console alternative
   - Same core functionality
 
@@ -39,6 +39,9 @@ A secure, multi-functional chatbot with image generation capabilities, built wit
 - Python 3.8+ (Tested on 3.13.1)
 - <a href="https://ollama.ai">Ollama</a>
 - Apple Silicon Mac (for MPS acceleration) or CUDA GPU (Tested on Apple Silicon M2)
+
+### Note for Developers: 
+To view the source code, to run offline on your own system or to contribute in this project reach out to us via <a href="mailto:vedant.storm@gmail.com">E-Mail</a>
 
 ### Installation
 ```bash
@@ -57,4 +60,4 @@ python register.py
 # Launch application
 python main.py  # GUI version
 # or
-python main_cli.py  # CLI version (Coming Soon)
+python main_cli.py  # CLI version
