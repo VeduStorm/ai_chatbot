@@ -6,17 +6,29 @@ A secure, multi-functional chatbot with image generation capabilities, built wit
 
 ## 📂 Project Structure
 QRX3-Chatbot/
+
 ├── main.py # Primary chatbot application
+
 ├── gui.py # Enhanced GUI version
+
 ├── main_dupe.py # CLI version backup
+
 ├── check.py # Password hashing utility
+
 ├── register.py # User registration system
+
 ├── requirements.txt # Dependency specifications
+
 ├── database.txt # Password storage (hashed)
+
 ├── important_info.txt # System configuration
+
 ├── chathistory_chatbot.txt # Conversation log
+
 └── assets/
+
 ├── QRX3 AI Logo.png # Application icon
+
 └── generated_image.png # Sample output
 
 ---
