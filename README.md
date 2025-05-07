@@ -58,6 +58,6 @@ python register.py
 > Password: [your_password]
 
 # Launch application
-python main.py  # GUI version
+python main_gui.py  # GUI version
 # or
 python main_cli.py  # CLI version
