@@ -1,35 +1,6 @@
-# 🤖 QRX3 AI Chatbot
+# 🤖 QRX3 AI Chatbot (Mac Silicon Complatible)
 
 A secure, multi-functional chatbot with image generation capabilities, built with PyQt5 and Stable Diffusion.
-
----
-
-## 📂 Project Structure
-QRX3-Chatbot/
-
-├── main.py # Primary chatbot application
-
-├── gui.py # Enhanced GUI version
-
-├── main_dupe.py # CLI version backup
-
-├── check.py # Password hashing utility
-
-├── register.py # User registration system
-
-├── requirements.txt # Dependency specifications
-
-├── database.txt # Password storage (hashed)
-
-├── important_info.txt # System configuration
-
-├── chathistory_chatbot.txt # Conversation log
-
-└── assets/
-
-├── QRX3 AI Logo.png # Application icon
-
-└── generated_image.png # Sample output
 
 ---
 
@@ -43,8 +14,7 @@ QRX3-Chatbot/
 ### 💬 Chat Capabilities
 - Context-aware conversations
 - Chat history persistence
-- Custom Ollama model integration ("Vedu/QRX3")
-- Markdown-style message formatting
+- Custom Ollama model integration ("Vedu/QRX3_chatbot")
 
 ### 🎨 Image Generation
 - Stable Diffusion v1.4 integration
@@ -57,7 +27,7 @@ QRX3-Chatbot/
   - PyQt5-based interface
   - Image preview panel
   - Chat history sidebar
-- **CLI Version**:
+- **CLI Version** (Coming Soon):
   - Lightweight console alternative
   - Same core functionality
 
@@ -66,8 +36,9 @@ QRX3-Chatbot/
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.8+
-- Apple Silicon Mac (for MPS acceleration) or CUDA GPU
+- Python 3.8+ (Tested on 3.13.1)
+- [Ollama] (https://ollama.ai)
+- Apple Silicon Mac (for MPS acceleration) or CUDA GPU (Tested on Apple Silicon M2)
 
 ### Installation
 ```bash
@@ -77,13 +48,13 @@ cd QRX3-Chatbot
 
 # Install dependencies
 pip install -r requirements.txt
+ollama pull Vedu/QRX3_chatbot:latest
 
 # Set up password (first run only)
-python check.py
+python register.py
 > Password: [your_password]
-# Copy output to database.txt
 
 # Launch application
 python main.py  # GUI version
 # or
-python main_dupe.py  # CLI version
+python main_cli.py  # CLI version (Coming Soon)
