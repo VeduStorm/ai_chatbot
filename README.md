@@ -37,7 +37,7 @@ A secure, multi-functional chatbot with image generation capabilities, built wit
 
 ### Prerequisites
 - Python 3.8+ (Tested on 3.13.1)
-- [Ollama] (https://ollama.ai)
+- <a href="https://ollama.ai">Ollama</a>
 - Apple Silicon Mac (for MPS acceleration) or CUDA GPU (Tested on Apple Silicon M2)
 
 ### Installation
