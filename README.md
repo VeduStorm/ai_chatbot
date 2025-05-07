@@ -41,7 +41,7 @@ A secure, multi-functional chatbot with image generation capabilities, built wit
 - Apple Silicon Mac (for MPS acceleration) or CUDA GPU (Tested on Apple Silicon M2)
 
 ### Note for Developers: 
-To view the source code, to run offline on your own system or to contribute in this project reach out to us via <a href="mailto:vedant.storm@gmail.com">E-Mail</a>
+To view the source code or to contribute in this project reach out to us via <a href="mailto:vedant.storm@gmail.com">E-Mail</a>
 
 ### Installation
 ```bash
