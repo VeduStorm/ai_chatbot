@@ -47,7 +47,8 @@ Optimizing it for other platforms beyond Mac Silicon
 
 Got suggestions or want to help? Fork it, test it, and open a PR!
 To contribute or collaborate in this project reach out to us via <a href="mailto:vedant.storm@gmail.com">E-Mail</a>
-To get your name in Acknowledgements section please suggest me atleast 3 features which are helpful but are not integrated, give me alteast 5 bugs or any of the above
+
+To get your name in Acknowledgements section please suggest me atleast 3 features which are helpful but are not integrated, give me alteast 5 bugs or any of the above and Mail it to me or reach out to me using any platform listed on Github profile [Vedant Gandhi](https://github.com/VeduStorm)
 
 ---
 
