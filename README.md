@@ -1,5 +1,5 @@
 # 🤖 QRX3 AI Chatbot 
-##**Optimized and tested on Mac Silicon M2**
+## **Optimized and tested on Mac Silicon M2**
 
 A secure, multi-functional chatbot with image generation capabilities, built with PyQt5 and Stable Diffusion.
 
@@ -71,3 +71,14 @@ python main_cli.py  # CLI version
 python3 source_gui.py # GUI version
 # or
 python3 source_cli.py # CLI version
+```
+## Acknowledgements
+
+This project wouldn’t be possible without:
+
+- [Ollama](https://ollama.com/) for enabling easy local LLM deployment
+- Open-source LLMs like Llama3
+- PyQt5 for the fast and clean UI
+- The open-source community for constant inspiration
+
+Made with ❤️ by [Vedant Gandhi](https://github.com/VeduStorm)
