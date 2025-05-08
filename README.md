@@ -35,6 +35,19 @@ A secure, multi-functional chatbot with image generation capabilities, built wit
 - **CLI Version**:
   - Lightweight console alternative
   - Same core functionality
+    
+---
+
+##📌 Contribute
+I’m actively improving QRX3 and looking forward to:
+
+Integrating a more optimized model in Ollama for either Image Generation or chat
+
+Optimizing it for other platforms beyond Mac Silicon
+
+Got suggestions or want to help? Fork it, test it, and open a PR!
+To contribute or collaborate in this project reach out to us via <a href="mailto:vedant.storm@gmail.com">E-Mail</a>
+To get your name in Acknowledgements section please suggest me atleast 3 features which are helpful but are not integrated, give me alteast 5 bugs or any of the above
 
 ---
 
@@ -44,9 +57,6 @@ A secure, multi-functional chatbot with image generation capabilities, built wit
 - Python 3.8+ (Tested on 3.13.1)
 - <a href="https://ollama.ai">Ollama</a> installed
 - Apple Silicon Mac (for MPS acceleration) or CUDA GPU (Tested on Apple Silicon M2)
-
-### Note for Developers: 
-To contribute or collaborate in this project reach out to us via <a href="mailto:vedant.storm@gmail.com">E-Mail</a>
 
 ### Installation
 When cloning please ensure secrets file is downloaded and is in the root folder
@@ -73,6 +83,9 @@ python3 source_gui.py # GUI version
 # or
 python3 source_cli.py # CLI version
 ```
+
+---
+
 # Acknowledgements
 
 This project wouldn’t be possible without:
