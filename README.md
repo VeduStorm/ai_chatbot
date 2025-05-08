@@ -72,7 +72,7 @@ python3 source_gui.py # GUI version
 # or
 python3 source_cli.py # CLI version
 ```
-## Acknowledgements
+# Acknowledgements
 
 This project wouldn’t be possible without:
 
