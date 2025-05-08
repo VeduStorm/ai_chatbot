@@ -74,6 +74,7 @@ ollama pull Vedu/QRX3_chatbot:latest
 
 # Set up a new user
 python register.py
+> Username: [user_name]
 > Password: [your_password]
 
 # Launch application
