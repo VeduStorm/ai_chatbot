@@ -49,6 +49,7 @@ A secure, multi-functional chatbot with image generation capabilities, built wit
 To contribute or collaborate in this project reach out to us via <a href="mailto:vedant.storm@gmail.com">E-Mail</a>
 
 ### Installation
+When cloning please ensure secrets file is downloaded and is in the root folder
 ```bash
 # Clone repository
 git clone https://github.com/VeduStorm/qrx3_ai-chatbot.git
