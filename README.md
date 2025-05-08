@@ -1,6 +1,10 @@
 # 🤖 QRX3 AI Chatbot 
 ## **Optimized and tested on Mac Silicon M2**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedustorm/qrx3_ai-chatbot&label=Repository%20Views&color=b4fdf5&style=plastic" alt="vedustorm" />
+</p>
+
 A secure, multi-functional chatbot with image generation capabilities, built with PyQt5 and Stable Diffusion.
 
 ---
