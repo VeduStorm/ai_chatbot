@@ -50,6 +50,8 @@ To contribute or collaborate in this project reach out to us via <a href="mailto
 
 To get your name in Acknowledgements section please suggest me atleast 3 features which are helpful but are not integrated, give me alteast 5 bugs or any of the above and Mail it to me or reach out to me using any platform listed on Github profile [Vedant Gandhi](https://github.com/VeduStorm)
 
+Help us by filling out a survey form after using this program for 2-5 days [Survey Form](https://forms.gle/XBapc7scfSd8jADC9) and if you feedback is something special, we will be adding your github username/your name to Acknowledgements section
+
 ---
 
 ## 🚀 Quick Start
